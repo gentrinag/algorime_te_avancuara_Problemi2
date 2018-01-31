@@ -1,0 +1,11 @@
+C:\Users\Gentrina\Desktop\Problemi2_alg\Problemi2_alg\bin\Debug\netcoreapp2.0\Problemi2_alg.deps.json
+C:\Users\Gentrina\Desktop\Problemi2_alg\Problemi2_alg\bin\Debug\netcoreapp2.0\Problemi2_alg.runtimeconfig.json
+C:\Users\Gentrina\Desktop\Problemi2_alg\Problemi2_alg\bin\Debug\netcoreapp2.0\Problemi2_alg.runtimeconfig.dev.json
+C:\Users\Gentrina\Desktop\Problemi2_alg\Problemi2_alg\bin\Debug\netcoreapp2.0\Problemi2_alg.dll
+C:\Users\Gentrina\Desktop\Problemi2_alg\Problemi2_alg\bin\Debug\netcoreapp2.0\Problemi2_alg.pdb
+C:\Users\Gentrina\Desktop\Problemi2_alg\Problemi2_alg\obj\Debug\netcoreapp2.0\Problemi2_alg.csprojResolveAssemblyReference.cache
+C:\Users\Gentrina\Desktop\Problemi2_alg\Problemi2_alg\obj\Debug\netcoreapp2.0\Problemi2_alg.csproj.CoreCompileInputs.cache
+C:\Users\Gentrina\Desktop\Problemi2_alg\Problemi2_alg\obj\Debug\netcoreapp2.0\Problemi2_alg.AssemblyInfoInputs.cache
+C:\Users\Gentrina\Desktop\Problemi2_alg\Problemi2_alg\obj\Debug\netcoreapp2.0\Problemi2_alg.AssemblyInfo.cs
+C:\Users\Gentrina\Desktop\Problemi2_alg\Problemi2_alg\obj\Debug\netcoreapp2.0\Problemi2_alg.dll
+C:\Users\Gentrina\Desktop\Problemi2_alg\Problemi2_alg\obj\Debug\netcoreapp2.0\Problemi2_alg.pdb
